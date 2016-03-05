@@ -1,0 +1,10 @@
+R = Iodex Reginensis 141 saec. ΙΧ-Χ. -
+0 = codex Oxoniennis Laud. Mino. 276 saec. IX.
+A = codex Atrebatonsis 621 saec. X.
+
+0 = codex Augiensis CXVIII saec. IX-X.
+V = codex vindobonensis 759 saec. XI.
+v = ediIio princeps Argentinae 1508.
+
+ 
+

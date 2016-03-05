@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tyranniirvfinio00engegoog_0272.png"; bbox 0 0 3228 4978; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 794 1957 839 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 794 1957 839 2040">
+     <span class='ocr_line' id='line_1_1' title="bbox 794 1957 839 2040; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 794 1957 839 2040; x_wconf 89' lang='lat' dir='ltr'><strong>V.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 483 2250 1152 2388">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 483 2250 1152 2388">
+     <span class='ocr_line' id='line_1_2' title="bbox 483 2250 1152 2388; baseline -0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 483 2255 565 2388; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 613 2250 867 2386; x_wconf 70' lang='lat' dir='ltr'>SEMET</span> <span class='ocrx_word' id='word_1_4' title='bbox 910 2252 1152 2388; x_wconf 77' lang='lat' dir='ltr'>IPSUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 145 2485 1262 2672">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 145 2485 1262 2672">
+     <span class='ocr_line' id='line_1_3' title="bbox 145 2485 1262 2672; baseline -0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 145 2485 148 2491; x_wconf 79' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 375 2537 471 2670; x_wconf 74' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 518 2535 726 2672; x_wconf 76' lang='lat' dir='ltr'><strong>AGRO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 773 2532 1262 2672; x_wconf 71' lang='lat' dir='ltr'><strong>REGRESSUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1618 4978">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1618 4978">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1618 4978; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1618 4978; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

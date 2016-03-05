@@ -1,0 +1,12 @@
+R = codex Baginensis 141 saec. ΙΧ-Χ.
+
+O = codex oxoniensis Laud. Mino. 276 saec. ΙΧ.
+Α = codex Atrebatensis 621 saec. X.
+
+0 :codex Augiensis cxvffl saec. ΙΧ-Χ.
+
+V = andex vindobonensis 759 saec. XI.
+v ε·- editio princeps Argentinae 1508.
+
+ 
+

@@ -1,0 +1,11 @@
+R = codex Baginensis 141 saec. lx-X.
+0 = codex Oxoniehsie Laud. Mino. 276 saec. IX.
+A = codex Atrebatensis 621 saec. X.
+
+0 = codex Augiensis CXVIII saec. ΙΧ-Χ.
+V = codex VIndobonensis 759 saec. XI.
+
+v = editio princeps Argentinae 1508.
+
+ 
+

@@ -1,0 +1,12 @@
+R = codex Baginensis 141 saec. III-X.
+
+0 = codex oxoniensis Laud. Mine. 276 saec. IX.
+A = codex Atrebatensis 621 saec. X.
+
+0 :codex Augiensis CXVIII saec. IX—X.
+
+V = codex vindobonensi· 759 saec. XI.
+v = editio prInceps Argenffinae 1508.
+
+ 
+

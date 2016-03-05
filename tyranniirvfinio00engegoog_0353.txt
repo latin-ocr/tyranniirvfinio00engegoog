@@ -1,0 +1,12 @@
+R = codex Reginensis 141 saec. IX-X.
+
+0 :: codex OxonIensis Laud. Misc. 276 saec. IX.
+Α =- codex Atrebatensis 621 saec. X.
+
+0 = codex Augiensis CXVIII saec. IX-'X.
+
+V : codex vindobonensis 759 saec. XI.
+v = editio princeps Argentinae 1508.
+
+ 
+

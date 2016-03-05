@@ -1,0 +1,24 @@
+R = codex Regiuensis 141 socc. lx-x.
+
+0 = codex Oxoniensis Laud. Misc. 276 saec. IX.
+A = codex Atrebatensis 621 saec. X.
+
+0 = codex Augicnsis CXVIII saec. IX-X.
+
+V = codex vindobonensis ’159 saec. XI.
+a = editIo princeps Argeudiuae 1508.
+
+In praefatione Rufini speciminis instar adnotantur etiam lectiones uu·
+riantes selectae, quas exhibent hi codices:
+
+L = codex Lugdunensis 515 saec. 1x in.
+B = codex Bononiensis Gallicus 30 saec. X.
+M = codex Monacensis 3787 saec. X—XI.
+
+P = codex Parisinus lat. 1705 saec. III.
+e.c.,p.c. = arcte correctionem, post correctionem ipsius manus primae.
+
+a.r..p.r. = arcte rasurae poor rasuram.
+
+ 
+
